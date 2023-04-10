@@ -1,0 +1,11 @@
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\bin\Debug\lab 10.exe.config
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\bin\Debug\lab 10.exe
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\bin\Debug\lab 10.pdb
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab 10.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab_10.Form1.resources
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab_10.Properties.Resources.resources
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab 10.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab 10.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab 10.exe
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\lab 10\lab 10\obj\Debug\lab 10.pdb
